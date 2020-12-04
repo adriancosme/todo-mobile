@@ -8,15 +8,25 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "axios": "^0.21.0",
     "expo": "~39.0.2",
     "expo-status-bar": "~1.0.2",
+    "native-base": "^2.13.15",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
-    "react-native-web": "~0.13.12"
+    "react-native-gesture-handler": "~1.7.0",
+    "react-native-paper": "^4.4.1",
+    "react-native-reanimated": "^1.13.2",
+    "react-native-screens": "~2.10.1",
+    "react-native-web": "~0.13.12",
+    "vue-native-core": "0.1.4",
+    "vue-native-helper": "0.1.4",
+    "vue-native-router": "^0.2.0"
   },
   "devDependencies": {
-    "@babel/core": "~7.9.0"
+    "@babel/core": "7.0.0",
+    "vue-native-scripts": "0.1.4"
   },
   "private": true
 }
