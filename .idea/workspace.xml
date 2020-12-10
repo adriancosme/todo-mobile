@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7bf88bd-a44c-4626-a768-52e535d6326a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot/setup.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Form.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/http-client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/add/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/home/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screens/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/task.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/List.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/List.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
@@ -24,6 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.10" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -34,7 +45,8 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -51,6 +63,11 @@
       <option name="presentableId" value="Default" />
       <updated>1607032981761</updated>
       <workItem from="1607032984855" duration="13730000" />
+      <workItem from="1607382507185" duration="2000" />
+      <workItem from="1607382538407" duration="21643000" />
+      <workItem from="1607451144219" duration="33878000" />
+      <workItem from="1607519448417" duration="24000" />
+      <workItem from="1607564244697" duration="1638000" />
     </task>
     <servers />
   </component>
@@ -67,5 +84,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
